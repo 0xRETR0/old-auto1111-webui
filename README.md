@@ -1,4 +1,7 @@
 # Stable Diffusion web UI
+
+#all the credits to [automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui), in case you somehow found it its just an old version of the webui i just copied over here because the new ones always shit their pants for me
+
 A browser interface based on Gradio library for Stable Diffusion.
 
 ![](txt2img_Screenshot.png)
